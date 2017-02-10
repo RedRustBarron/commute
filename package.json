@@ -1,10 +1,10 @@
 {
-  "name": "IntroHCI",
+  "name": "commute",
   "version": "0.0.1",
-  "author": "Intro HCI Staff",
+  "author": "stianvale",
   "repository": {
     "type": "git",
-    "url": "https://github.com/IntroHCI/lab4"
+    "url": "https://github.com/oyvikjo/commute"
   },
   "license": "MIT",
   "private": true,
